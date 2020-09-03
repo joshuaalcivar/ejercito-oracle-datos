@@ -1,0 +1,17 @@
+INSERT INTO Cuartel  VALUES(1,'Cuarte General 25','Paraiso');
+INSERT INTO Cuartel VALUES(2,'Cuartel General Rios','La Vega');
+INSERT INTOCuartel  VALUES(3,'Cuartel General Paraiso','Los Mangos');
+INSERT INTO Cuartel  VALUES(4,'Cuartel General 30','Montalban');
+INSERT INTO Cuartel VALUES(5,'Cuartel General 50','La Paz');
+
+INSERT INTO SERVICIOS_POR_CUARTEL VALUES(1,101,'Naval','12 Meses');
+INSERT INTO SERVICIOS_POR_CUARTEL VALUES(2,202,'Aereo','8 Meses');
+INSERT INTO SERVICIOS_POR_CUARTEL VALUES(3,303,'Servicios Especiales','16 Meses');
+INSERT INTO SERVICIOS_POR_CUARTEL VALUES(4,404,'Paracaidismo','7 Meses');
+INSERT INTO SERVICIOS_POR_CUARTEL VALUES(5,505,'Ejercito','11 Meses');
+
+INSERT INTO SOLDADOS VALUES(101,'Benjamin','Rada','Miami','0963568024');
+INSERT INTO SOLDADOS VALUES(202,'Kelvis','Zambrano','San Francisco','0978633695');
+INSERT INTO SOLDADOS VALUES(303,'Luis','Polo','New York','0999530143');
+INSERT INTO SOLDADOS VALUES(404,'Miguel','Gimenez','Orlando','0987452401');
+INSERT INTO SOLDADOS VALUES(505,'Brayan','Zamora','Las Vegas','0992699897');
